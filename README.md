@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="200" src="https://tenor.com/view/lil-peep-gothboiclique-peep-gif-18459695"  />
+<img align="right" height="250" src="https://media1.tenor.com/m/1hZPPxg_PeUAAAAd/lil-peep-gothboiclique.gif"  />
 
 ###
 
@@ -41,10 +41,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NAFSMUN&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NAFSMUN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=NAFSTAT$" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=NAFSMUN&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=NAFSMUN&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NAFSMUN&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
