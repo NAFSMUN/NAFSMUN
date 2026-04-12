@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="250" src="https://media1.tenor.com/m/1hZPPxg_PeUAAAAd/lil-peep-gothboiclique.gif"  />
+<img align="right" height="240" src="https://media1.tenor.com/m/1hZPPxg_PeUAAAAd/lil-peep-gothboiclique.gif"  />
 
 ###
 
